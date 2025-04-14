@@ -1,8 +1,8 @@
 AZ900 -- Azure Fundamentals
 
 ### Architecture Diagram
-[Arch_1](./Assets/Arch_1.png)
-[Arch_1](./Assets/Arch_2.png)
+![Arch_1](./Assets/Arch_1.png)
+![Arch_1](./Assets/Arch_2.png)
 
 ### Learning Resource
 [AZ900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
