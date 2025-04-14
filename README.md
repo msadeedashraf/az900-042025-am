@@ -13,10 +13,10 @@ AZ900 -- Azure Fundamentals
 [Blade Server vs Rack Server](https://www.racksolutions.com/news/data-center-optimization/blade-server-vs-rack-server/)
 
 [Container Vs VMs](https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms)
-[](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm)
-[](https://cloud.google.com/discover/containers-vs-vms)
+[Link2](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm)
+[Link3](https://cloud.google.com/discover/containers-vs-vms)
 
 [NAS vs SAN](https://www.backblaze.com/blog/whats-the-diff-nas-vs-san/)
 
 [RAID](https://www.prepressure.com/library/technology/raid)
-[](https://www.pcmag.com/encyclopedia/term/raid)
+[Link2](https://www.pcmag.com/encyclopedia/term/raid)
