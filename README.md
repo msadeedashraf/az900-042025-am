@@ -12,6 +12,8 @@ AZ900 -- Azure Fundamentals
 
 [Blade Server vs Rack Server](https://www.racksolutions.com/news/data-center-optimization/blade-server-vs-rack-server/)
 
+[Virtual machines](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-virtual-machine)
+
 [Container Vs VMs](https://www.atlassian.com/microservices/cloud-computing/containers-vs-vms)
 [Link2](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm)
 [Link3](https://cloud.google.com/discover/containers-vs-vms)
