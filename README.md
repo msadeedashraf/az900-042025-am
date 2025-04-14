@@ -16,4 +16,7 @@ AZ900 -- Azure Fundamentals
 [](https://learn.microsoft.com/en-us/virtualization/windowscontainers/about/containers-vs-vm)
 [](https://cloud.google.com/discover/containers-vs-vms)
 
+[NAS vs SAN](https://www.backblaze.com/blog/whats-the-diff-nas-vs-san/)
+
 [RAID](https://www.prepressure.com/library/technology/raid)
+[](https://www.pcmag.com/encyclopedia/term/raid)
