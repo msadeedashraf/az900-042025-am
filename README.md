@@ -5,7 +5,12 @@ AZ900 -- Azure Fundamentals
 ![Arch_1](./Assets/Arch_2.png)
 
 ### Learning Resource
+
 [AZ900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+
+[Describe Cloud Concepts](https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
+
+[Cloud Service Types](https://learn.microsoft.com/en-us/training/modules/describe-cloud-service-types/)
 
 
 ### Additional Resources
